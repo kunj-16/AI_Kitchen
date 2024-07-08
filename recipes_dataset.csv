@@ -1,0 +1,26 @@
+﻿recipe_id,recipe_name,ingredient,quantity
+1,Spaghetti Bolognese,spaghetti,100
+1,Spaghetti Bolognese,ground beef,200
+1,Spaghetti Bolognese,tomato sauce,150
+1,Spaghetti Bolognese,onion,50
+1,Spaghetti Bolognese,garlic,10
+2,Chicken Curry,chicke,200
+2,Chicken Curry,curry powder,50
+2,Chicken Curry,coconut milk,100
+2,Chicken Curry,onion,50
+2,Chicken Curry,garlic,10
+3,Vegetable Stir Fry,broccoli,100
+3,Vegetable Stir Fry,carrot,50
+3,Vegetable Stir Fry,bell pepper,50
+3,Vegetable Stir Fry,soy sause,30
+3,Vegetable Stir Fry,garlic,10
+4,Pancakes,flour,200
+4,Pancakes,milk,150
+4,Pancakes,egg,2
+4,Pancakes,sugar,20
+4,Pancakes,butter,30
+5,Beef Stew,beef,300
+5,Beef Stew,potato,100
+5,Beef Stew,carrot,50
+5,Beef Stew,onion,50
+5,Beef Stew,garlic,10
