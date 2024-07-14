@@ -48,3 +48,11 @@ Notification System
 -Twilio API is used to send SMS notifications.
 -The send_notification function sends alerts about missing ingredients to the user's phone number. 
 -Twilio account credentials (account_sid and auth_token) are required for API initialization.
+
+
+Link of HARDWARE SIMULATION:
+https://www.tinkercad.com/things/gek5J6TVgj2-aikitchen/editel
+
+
+IMPORTANT: For the successful execution of the code you need one more file named"yolov3.weights" which I am not able to upload in the repository due to its size.
+
